@@ -323,6 +323,9 @@ function Yip() {
             </div>
           </div>
         </main>
+        <footer>
+          <p className="footer_text">Designed & Developed by <span>µLearn</span></p>
+        </footer>
       </body>
     </div>
   );

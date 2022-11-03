@@ -1,9 +1,22 @@
+.footer_text {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  color: #404040;
+  margin: 2rem 0;
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+
+.footer_text span {
+  color: #faac71;
+}
+
 /* Main Body Header */
 
 .first-section {
   display: flex;
   flex-direction: column-reverse;
-  margin: 3vh 2rem;
+  margin: 6vh 2rem;
   color: #404040;
   font-weight: 500;
 }
@@ -24,7 +37,7 @@
 
 .ctabtn,
 .start {
-  background-color: #fd7915;
+  background-color: #f6832a;
   color: white;
   padding: 0.5rem 1rem;
   border: none;
@@ -33,15 +46,15 @@
 }
 
 .start {
-  color: #fd7915;
+  color: #f6832a;
   margin-left: 5px;
-  border: 2px solid #fd7915;
+  border: 2px solid #f6832a;
   background-color: white;
 }
 
 .ctabtn:hover,
 .start:hover {
-  box-shadow: 0px 0px 10px #faac71;
+  box-shadow: 0px 0px 10px #f6832a;
 }
 
 .right-section {
@@ -160,7 +173,7 @@
   font-family: "Outfit", sans-serif;
   font-size: 1.5rem;
   font-weight: 600;
-  color: #fd7915;
+  color: #f6832a;
 }
 
 @media only screen and (min-width: 1000px) {
