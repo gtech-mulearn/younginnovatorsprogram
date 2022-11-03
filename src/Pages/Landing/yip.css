@@ -2,15 +2,19 @@
 
 .first-section {
   display: flex;
-  flex-direction: column;
-  margin: 13vh 2rem;
+  flex-direction: column-reverse;
+  margin: 3vh 2rem;
   color: #404040;
   font-weight: 500;
 }
 
 .main-header {
   font-family: "Outfit", sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.75rem;
+}
+
+.main-header span {
+  color: #f6832a;
 }
 
 .tagline {
@@ -47,7 +51,24 @@
 
 .illustration {
   width: 23rem;
-  margin: 5vh 0;
+}
+
+.pre_tagline {
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+
+.primary {
+  border: none;
+  background-color: #f6832a;
+  color: white;
+  font-size: 1.1rem;
+  border-radius: 5px;
+  font-family: "Outfit", sans-serif;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
 }
 
 @media only screen and (min-width: 1000px) {
@@ -63,12 +84,19 @@
   .main-header {
     font-family: "Outfit", sans-serif;
     font-size: 4rem;
+    width: 80%;
+  }
+
+  .pre_tagline {
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 0.75rem;
+    font-size: 1.8rem;
   }
 
   .tagline {
     font-family: "Poppins", sans-serif;
     margin-top: 0vh;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     line-height: normal;
     font-weight: 400;
     width: 85%;

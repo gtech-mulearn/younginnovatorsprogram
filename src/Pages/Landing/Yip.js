@@ -9,7 +9,10 @@ function Yip() {
         <main>
           <div className="first-section">
             <div className="left-section">
-              <p className="main-header">YIP Sasthrapadham</p>
+              <p className="main-header">
+                <span>Young Innovators Program 2022</span> Sasthrapadham
+              </p>
+              <p className="pre_tagline">Democratisation of Innovation</p>
               <p className="tagline">
                 Aims to develop an innovation culture among school students
                 which strengthen the innovation ecosystem, Cater to the
@@ -20,6 +23,8 @@ function Yip() {
                 Objectives and aims of YIP align with the Shasthrapadham. Joint
                 programme for school students in the name of YIP
               </p>
+
+              <button className="primary">Register Now</button>
             </div>
 
             <div className="right-section">
@@ -307,8 +312,8 @@ function Yip() {
                         Finally the winners are annouced and out of the 2000
                         teams selected at state level
                         <b>
-                        &nbsp;900 teams are provided financial and mentoring support
-                          for the next 3 years.
+                          &nbsp;900 teams are provided financial and mentoring
+                          support for the next 3 years.
                         </b>
                       </p>
                     </div>
