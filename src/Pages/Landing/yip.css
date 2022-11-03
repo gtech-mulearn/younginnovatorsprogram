@@ -1,0 +1,230 @@
+/* Main Body Header */
+
+.first-section {
+  display: flex;
+  flex-direction: column;
+  margin: 13vh 2rem;
+  color: #404040;
+  font-weight: 500;
+}
+
+.main-header {
+  font-family: "Outfit", sans-serif;
+  font-size: 2.5rem;
+}
+
+.tagline {
+  margin-top: 3vh;
+  line-height: 1.75rem;
+}
+
+.ctabtn,
+.start {
+  background-color: #fd7915;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  margin-top: 2vh;
+  border-radius: 6px;
+}
+
+.start {
+  color: #fd7915;
+  margin-left: 5px;
+  border: 2px solid #fd7915;
+  background-color: white;
+}
+
+.ctabtn:hover,
+.start:hover {
+  box-shadow: 0px 0px 10px #faac71;
+}
+
+.right-section {
+  align-items: center;
+  text-align: center;
+}
+
+.illustration {
+  width: 23rem;
+  margin: 5vh 0;
+}
+
+@media only screen and (min-width: 1000px) {
+  .first-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    /* margin: 10vh 6rem; */
+    margin: 0vh 6rem 10vh 6rem;
+  }
+
+  .main-header {
+    font-family: "Outfit", sans-serif;
+    font-size: 4rem;
+  }
+
+  .tagline {
+    font-family: "Poppins", sans-serif;
+    margin-top: 0vh;
+    font-size: 1.2rem;
+    line-height: normal;
+    font-weight: 400;
+    width: 85%;
+  }
+
+  .ctabtn {
+    margin-top: 2vh;
+    padding: 0.65rem 1.5rem;
+  }
+
+  .illustration {
+    width: 40vw;
+    max-width: unset;
+  }
+}
+
+.stext {
+  font-family: "Poppins", sans-serif;
+  margin-top: 20px;
+}
+
+/* Second Section Styles */
+
+.second-section {
+  background-color: aliceblue;
+  box-shadow: 0px 0px 15px #e6e6e6;
+  padding: 0 2rem 5rem 2rem;
+}
+
+.bulb-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ssheader {
+  font-family: "Outfit", sans-serif;
+  font-size: 1.95rem;
+  color: #404040;
+}
+
+.paper-bulb {
+  height: 25vh;
+}
+
+.image-container {
+  align-items: center;
+  text-align: center;
+  margin-top: 5vh;
+}
+
+.yt-video {
+  width: 80vw;
+  min-height: 30vh;
+  border-radius: 8px;
+  margin: 5vh 0;
+}
+
+.sheader {
+  margin-top: 20px;
+  font-family: "Outfit", sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #fd7915;
+}
+
+@media only screen and (min-width: 1000px) {
+  .ssheader {
+    font-size: 2.75rem;
+    width: 15rem;
+  }
+
+  .yt-video {
+    width: 30vw;
+    min-height: 35vh;
+    border-radius: 8px;
+    margin: 5vh 0;
+  }
+
+  .image-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .sheader {
+    font-size: 1.75rem;
+    font-weight: 600;
+  }
+
+  .s1s2 {
+    text-align: right;
+    width: 25vw;
+  }
+
+  .s3s4 {
+    text-align: left;
+    width: 25vw;
+  }
+}
+
+/* Timeline Styles */
+.lni-cake {
+  width: 4rem;
+}
+
+.third-section {
+  margin: 7vh 0;
+  /* margin-bottom: 15vh; */
+}
+
+.tsheading {
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+  color: #404040;
+  font-size: 2.1rem;
+  font-weight: 600;
+}
+
+@media only screen and (min-width: 1000px) {
+  .tsheading {
+    font-size: 3rem;
+    margin-bottom: 4vh;
+  }
+}
+
+.inputfield {
+  margin-top: 2rem;
+  width: 20rem;
+  padding: 0.4rem 2.25rem;
+}
+
+.submit-btn {
+  background-color: #f6832a;
+  color: white;
+  border: none;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  padding: 0.45rem 2.25rem;
+}
+
+@media only screen and (min-width: 1000px) {
+  .inputfield {
+    margin-top: 2rem;
+    width: 20rem;
+    padding: 0.4rem 2.25rem;
+    border-width: unset;
+  }
+
+  .submit-btn {
+    background-color: #f6832a;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.45rem 2.25rem;
+    margin: 0px 10px;
+  }
+}
