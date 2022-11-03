@@ -9,15 +9,16 @@ function Yip() {
         <main>
           <div className="first-section">
             <div className="left-section">
-              <p className="main-header">ഐഡിയ ആണ് മെയിൻ!</p>
+              <p className="main-header">YIP Sasthrapadham</p>
               <p className="tagline">
-                Young Innovators Programme (YIP) is a specially designed
-                programme under Kerala Development and Innovation Strategic
-                Council (K-DISC). The programme aims to empower future
-                innovators to innovate new products, services or models to meet
-                emerging requirements, unarticulated needs, or existing market
-                needs of the society more effectively through an innovative
-                challenge.
+                Aims to develop an innovation culture among school students
+                which strengthen the innovation ecosystem, Cater to the
+                transition of Kerala to Knowledge SocietyLow participation of
+                students from government schools in the last cohorts.Samagra
+                Shiksha Kerala envisages a research oriented programme called
+                Shastrapadam for secondary and higher secondary students.
+                Objectives and aims of YIP align with the Shasthrapadham. Joint
+                programme for school students in the name of YIP
               </p>
             </div>
 
@@ -42,19 +43,20 @@ function Yip() {
             <div className="image-container">
               <div className="s1s2">
                 <div className="s1">
-                  <p className="sheader">Who all can Participate</p>
+                  <p className="sheader">School Level Activties.</p>
                   <p className="stext">
-                    Students studying in 8th Standard, College Students and
-                    working Professionals who are interested in innovation upto
-                    the age of 35 can participate.
+                    Orientation Programme, Ideator registration, Group
+                    formation, Voice of Stakeholder, Idea Registration, Idea
+                    day, Idea Evaluation in schools
                   </p>
                 </div>
-                <div className="s2">
-                  <p className="sheader">Funding of 30Cr</p>
+                <div className="s3">
+                  <p className="sheader">District Level Activities</p>
                   <p className="stext">
-                    The most important thing in the development of an Idea is
-                    the availability of funding at the correct time. If funding
-                    is your issue, don't worry we have you covered.
+                    Industry 4.0, Business Plan, Intellectual Property, Library
+                    Access (How to use library & journals, internet for research
+                    purposes),Fab lab activity, Fundamentals on research and
+                    research, methodology & Data Analysis
                   </p>
                 </div>
               </div>
@@ -68,20 +70,23 @@ function Yip() {
                 allowFullScreen
               ></iframe>
               <div className="s3s4">
-                <div className="s3">
-                  <p className="sheader">Amazing Prizes</p>
+                <div className="s2">
+                  <p className="sheader">Block Level Activities</p>
                   <p className="stext">
-                    YIP is offering financial support of Rs.25000 to 8000 teams
-                    getting selected in the District level and Rs.50000 to 2000
-                    teams getting selected in the state level.
+                    Design thinking fundamental orientation sessions, Activities
+                    (Eg. Wallet/Nighty), Global Innovators videos. Zero to Hero
+                    ,Idea Screening.
                   </p>
                 </div>
+
                 <div className="s4">
-                  <p className="sheader">How to Register</p>
+                  <p className="sheader">Benefits to Teachers and Students</p>
                   <p className="stext">
-                    You can join in and submit your ideas as a team consisting
-                    minimum two and maximum five members before February 15th
-                    2022. Each Ideator can exist in 2 teams at a time.
+                    Trainings on various innovation aspects. Opportunities to
+                    become a part of innovation ecosystem. Exposure to the
+                    experience of innovation Opportunities to get mentorship
+                    from research institutions.Attractive prize money for
+                    district level and state level winners
                   </p>
                 </div>
               </div>
@@ -111,7 +116,7 @@ function Yip() {
                       <p>
                         <a href="https://yip.kerala.gov.in/yipapp/index.php/Idea2021/?utm_source=mulearn&utm_medium=link&utm_campaign=mulearn_directv1&utm_id=yip21v1&utm_term=new_reg">
                           <span>
-                            <b>Click Here</b>{" "}
+                            <b>Click Here </b>{" "}
                           </span>
                         </a>
                         to go to the Pre-Registration page. Enter all your
@@ -141,12 +146,12 @@ function Yip() {
                         <a href="https://yip.kerala.gov.in/yipapp/index.php/Init/">
                           <span>
                             {" "}
-                            <b>Click Here to Login</b>
+                            <b>Click Here to Login </b>
                           </span>
                         </a>
                         ,After Logging in Click the Open the left navbar option
                         and from the options listed there click the
-                        <b>Profile Completion</b> option. Fill in all your
+                        <b> Profile Completion</b> option. Fill in all your
                         details correctly and according to the mentioned
                         specifications. Finally Submit the form and click OK.
                       </p>
@@ -171,7 +176,7 @@ function Yip() {
                       <p>
                         After completing your Profile and submitting it, You can
                         check the left navbar again to find the
-                        <b>Voice of Customer(VOC)</b> option. By clicking that
+                        <b> Voice of Customer(VOC)</b> option. By clicking that
                         you will be directed to the course page where you can
                         complete it.
                       </p>
@@ -201,7 +206,7 @@ function Yip() {
                           You can form a team consisting of minimum 2 members
                           and maximum 5 members by clicking the Group Formation
                           Button from the left navbar. Only one person from a
-                          group is required to form the group
+                          group is required to form the group&nbsp;
                         </b>
                         while the other members can join it using the team's
                         name and password.
@@ -228,7 +233,7 @@ function Yip() {
                         After forming a team and finding an idea which suits the
                         given themes, the <b>person who formed the team</b> can
                         submit the idea by going to the
-                        <b>Idea Submission Option</b> from his/her Navbar.
+                        <b> Idea Submission Option</b> from his/her Navbar.
                       </p>
                     </div>
                   </div>
@@ -275,9 +280,9 @@ function Yip() {
                       <p>
                         Once your Idea is approved by the institution, it is put
                         forward for a preliminary evaluation and
-                        <b>8000 teams</b> are selected from District Level and
-                        <b>2000 teams</b> are selected from State Level and are
-                        awarded prizes upto <b>Rs.50000</b>
+                        <b> 8000 teams</b> are selected from District Level and
+                        <b> 2000 teams</b> are selected from State Level and are
+                        awarded prizes upto <b> Rs.50000</b>
                       </p>
                     </div>
                   </div>
@@ -302,7 +307,7 @@ function Yip() {
                         Finally the winners are annouced and out of the 2000
                         teams selected at state level
                         <b>
-                          900 teams are provided financial and mentoring support
+                        &nbsp;900 teams are provided financial and mentoring support
                           for the next 3 years.
                         </b>
                       </p>
