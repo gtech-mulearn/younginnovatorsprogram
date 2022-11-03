@@ -6,6 +6,10 @@ function Yip() {
   return (
     <div className="App">
       <body>
+        <nav>
+          <img src="/yiplogo.png" />
+          <button className="nav_primary">Register Now</button>
+        </nav>
         <main>
           <div className="first-section">
             <div className="left-section">
@@ -324,7 +328,12 @@ function Yip() {
           </div>
         </main>
         <footer>
-          <p className="footer_text">Designed & Developed by <span>µLearn</span></p>
+          <p className="footer_text">
+            Designed & Developed by{" "}
+            <a target="_blank" href="https://mulearn.org">
+              <span>µLearn</span>
+            </a>
+          </p>
         </footer>
       </body>
     </div>
