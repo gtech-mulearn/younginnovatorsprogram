@@ -25,7 +25,7 @@ function Yip() {
                 Shiksha Kerala envisages a research oriented programme called
                 Shastrapadam for secondary and higher secondary students.
                 Objectives and aims of YIP align with the Shasthrapadham. Joint
-                programme for school students in the name of YIP
+                programme for school students in the name of YIP-Shasthrapadham
               </p>
 
               <button className="primary">Register Now</button>
