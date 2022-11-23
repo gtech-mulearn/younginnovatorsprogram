@@ -83,7 +83,7 @@ function Yip() {
                   <p className="sheader">Block Level Activities</p>
                   <p className="stext">
                     Design thinking fundamental orientation sessions, Activities
-                    (Eg. Wallet/Nighty), Global Innovators videos. Zero to Hero
+                    (Eg. Wallet/Nighty), Global Innovators videos,
                     ,Idea Screening.
                   </p>
                 </div>
